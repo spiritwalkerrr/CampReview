@@ -3,6 +3,7 @@ body{
     background-image: url("https://images.unsplash.com/photo-1517824806704-9040b037703b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: bottom;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0.4);
     box-shadow: 0 0 2px rgba(255, 255, 255, 0.4)
 }
